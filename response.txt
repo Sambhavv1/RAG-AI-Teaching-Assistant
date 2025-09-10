@@ -1,0 +1,7 @@
+Sorry to hear that you're having some trouble with CSS.
+
+CSS is a fundamental topic in web development, and it's actually covered in a few videos throughout your Sigma course.
+
+You can learn more about CSS right from Video 2: "Your First HTML Website". At around 1 minute and 5 seconds into the video (starting at timestamp 851.44), you'll get to see how I teach the basics of CSS, including its purpose and how it's used for styling web pages.
+
+However, if you're looking for a more in-depth introduction to CSS, that's covered in Video 14: "Introduction to CSS". You can watch this video from start to finish (beginning at timestamp 257.6) to get a comprehensive understanding of how CSS works and its applications in web development.
